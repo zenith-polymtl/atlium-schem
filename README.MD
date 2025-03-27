@@ -8,13 +8,13 @@
 1. **Check:** Allez sur votre GitHub pour vous assurer que tout a ete correctement televerse.
 
 
-## Using Git from command line (Manually)
-1. **Open cmd:** Once you make some updates, go into your project directory, open commad line and run:<br />
-1. `git status` #this will show you what changes you have done<br />
-1. `git add [path/file]` #this will prepare that specific file for commit, to add all files at once, use add . <br />
-1. `git commit -m "Change description"` #this will commit the changes with specific description<br />
-1. `git push origin master` # this will copy your changes to Github<br />
+## Utiliser Git en ligne de commande (Manuellement)
+1. **Open cmd:** Une fois que vous avez effectue des modifications, accedez a votre repertoire de projet, ouvrez la ligne de commande et executez :<br />
+1. `git status` #cela affichera les modifications que vous avez effectuees<br />
+1. `git add [path/file]` #cela preparera ce fichier specifique pour le commit <br />
+1. `git commit -m "Change description"` #ela validera les modifications avec une description specifique<br />
+1. `git push origin master` #cela copiera vos modifications sur GitHub<br />
 
-### Download the latest changes
-If you would like to download the latest files from Github, then:<br />
-1. `git pull origin master` # this will download the latest files from Github to your local computer<br />
+### Telecharger les dernieres modifications
+Si vous souhaitez telecharger les derniers fichiers depuis GitHub, alors :<br />
+1. `git pull origin master` # cela telechargera les derniers fichiers depuis GitHub vers votre ordinateur local<br />
