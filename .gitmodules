@@ -1,0 +1,3 @@
+[submodule "libraries"]
+	path = Libraries
+	url = git@github.com:ddavidebor/altium-libraries.git
