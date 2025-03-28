@@ -50,74 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Drone1_V1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=31
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QNWYVDEJ
-
-[Document2]
-DocumentPath=Drone1_V1 SCHEMATIC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=28
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VVMBSGTH
-
-[Document3]
-DocumentPath=[01] - COVER PAGE.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DTIKWLBQ
-
-[Document4]
-DocumentPath=[02] - BLOCK DIAGRAM.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GOVQVHNV
-
-[Document5]
 DocumentPath=Drone1_V1 JobFile.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,24 +66,58 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
-DocumentPath=Drone1_V1.PcbDoc
+[Document2]
+DocumentPath=BLOCK DIAGRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
+AnnotateOrder=1
+DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OYMHLGTD
+DocumentUniqueId=GOVQVHNV
 
-[Document7]
+[Document3]
+DocumentPath=COVER PAGE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DTIKWLBQ
+
+[Document4]
+DocumentPath=Drone1_V1 SCHEMATIC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=28
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VVMBSGTH
+
+[Document5]
 DocumentPath=Drone1_V1.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,17 +134,63 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=Moteurs_schem.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XGKMISPM
+
+[Document7]
+DocumentPath=Vol_schem.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UVSZWWYI
+
+[Document8]
+DocumentPath=Mission_schem.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BGTXYAYO
+
 [ProjectVariant1]
 UniqueId=ACD38083-DB46-4215-A26B-C8AE47B6B36A
 Description=FIXED 5V
 AllowFabrication=0
 ParameterCount=0
-VariationCount=5
-Variation1=Designator=JP2|UniqueId=\QSAEQFCH|Kind=1|AlternatePart=
-Variation2=Designator=R26|UniqueId=\XRDALLCH|Kind=1|AlternatePart=
-Variation3=Designator=R28|UniqueId=\STUEGNAJ|Kind=1|AlternatePart=
-Variation4=Designator=JP4|UniqueId=\EPWMBYMA|Kind=1|AlternatePart=
-Variation5=Designator=LINK3|UniqueId=\JMPQLUMI|Kind=1|AlternatePart=
+VariationCount=0
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -186,158 +198,8 @@ UniqueId=78AFF310-F68D-4ED5-99EA-45A001F3CECB
 Description=5V/3V3
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
-Variation1=Designator=JP2|UniqueId=\QSAEQFCH|Kind=1|AlternatePart=
-Variation2=Designator=R27|UniqueId=\EWEYNHWX|Kind=1|AlternatePart=
-Variation3=Designator=R28|UniqueId=\STUEGNAJ|Kind=1|AlternatePart=
-Variation4=Designator=R26|UniqueId=\XRDALLCH|Kind=1|AlternatePart=
-Variation5=Designator=Y2|UniqueId=\MIDDOVOW|Kind=2|AlternatePart=ABM7-8.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Integrated_Library_FEDEVEL_APR_2015.IntLib|AltLibLink_SymbolReference=ABM7-16.000MHZ-D2Y-T|AltLibLink_DesignItemID=ABM7-8.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Integrated_Library_FEDEVEL_APR_2015.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=ABM7-8.000MHZ-D2Y-T
-ParamDesignator1=Y2
-ParamVariation2=ParameterName=.Checked PCB|VariantValue=
-ParamDesignator2=Y2
-ParamVariation3=ParameterName=.Checked SCH|VariantValue=
-ParamDesignator3=Y2
-ParamVariation4=ParameterName=.Creator|VariantValue=MM
-ParamDesignator4=Y2
-ParamVariation5=ParameterName=Category|VariantValue=Crystals and Oscillators
-ParamDesignator5=Y2
-ParamVariation6=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator6=Y2
-ParamVariation7=ParameterName=ComponentLink1Description|VariantValue=http://www.abracon.com/Resonators/abm7.pdf
-ParamDesignator7=Y2
-ParamVariation8=ParameterName=ComponentLink1URL|VariantValue=http://www.abracon.com/Resonators/abm7.pdf
-ParamDesignator8=Y2
-ParamVariation9=ParameterName=Description|VariantValue=CRYSTAL 8MHZ 18PF SMD
-ParamDesignator9=Y2
-ParamVariation10=ParameterName=ESR (Equivalent Series Resistance)|VariantValue=100 Ohm
-ParamDesignator10=Y2
-ParamVariation11=ParameterName=Footprint|VariantValue=ABM7_v1_1_BIG
-ParamDesignator11=Y2
-ParamVariation12=ParameterName=Frequency|VariantValue=8MHz
-ParamDesignator12=Y2
-ParamVariation13=ParameterName=Frequency Stability|VariantValue=±30ppm
-ParamDesignator13=Y2
-ParamVariation14=ParameterName=Frequency Tolerance|VariantValue=±20ppm
-ParamDesignator14=Y2
-ParamVariation15=ParameterName=Height|VariantValue=0.055" (1.40mm)
-ParamDesignator15=Y2
-ParamVariation16=ParameterName=Ibis Model|VariantValue=
-ParamDesignator16=Y2
-ParamVariation17=ParameterName=Library Reference|VariantValue=ABM7-8.000MHZ-D2Y-T
-ParamDesignator17=Y2
-ParamVariation18=ParameterName=Load Capacitance|VariantValue=18pF
-ParamDesignator18=Y2
-ParamVariation19=ParameterName=Manufacturer|VariantValue=Abracon LLC
-ParamDesignator19=Y2
-ParamVariation20=ParameterName=Manufacturer Part Number|VariantValue=ABM7-8.000MHZ-D2Y-T
-ParamDesignator20=Y2
-ParamVariation21=ParameterName=Mounting Type|VariantValue=Surface Mount
-ParamDesignator21=Y2
-ParamVariation22=ParameterName=Operating Mode|VariantValue=Fundamental
-ParamDesignator22=Y2
-ParamVariation23=ParameterName=Operating Temperature|VariantValue=-40°C ~ 85°C
-ParamDesignator23=Y2
-ParamVariation24=ParameterName=Package / Case|VariantValue=2-SMD
-ParamDesignator24=Y2
-ParamVariation25=ParameterName=Packaging|VariantValue=Cut Tape (CT)
-ParamDesignator25=Y2
-ParamVariation26=ParameterName=PCB3D|VariantValue=
-ParamDesignator26=Y2
-ParamVariation27=ParameterName=Pricing 1|VariantValue=1=0.96, 10=0.847, 50=0.791, 100=0.7, 500=0.6615 (USD)
-ParamDesignator27=Y2
-ParamVariation28=ParameterName=Ratings|VariantValue=-
-ParamDesignator28=Y2
-ParamVariation29=ParameterName=RoHS|VariantValue=RoHS Compliant
-ParamDesignator29=Y2
-ParamVariation30=ParameterName=Signal Integrity|VariantValue=
-ParamDesignator30=Y2
-ParamVariation31=ParameterName=Simulation|VariantValue=
-ParamDesignator31=Y2
-ParamVariation32=ParameterName=Size / Dimension|VariantValue=0.236" L x 0.138" W (6.00mm x 3.50mm)
-ParamDesignator32=Y2
-ParamVariation33=ParameterName=Stock 1|VariantValue=2548
-ParamDesignator33=Y2
-ParamVariation34=ParameterName=Supplier 1|VariantValue=Digi-Key
-ParamDesignator34=Y2
-ParamVariation35=ParameterName=Supplier Part Number 1|VariantValue=535-9831-1-ND
-ParamDesignator35=Y2
-ParamVariation36=ParameterName=Type|VariantValue=MHz Crystal
-ParamDesignator36=Y2
-Variation6=Designator=Y1|UniqueId=\QJAUNLLF|Kind=2|AlternatePart=ABM7-10.0000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Integrated_Library_FEDEVEL_APR_2015.IntLib|AltLibLink_SymbolReference=ABM7-16.000MHZ-D2Y-T|AltLibLink_DesignItemID=ABM7-10.0000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Integrated_Library_FEDEVEL_APR_2015.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
-ParamVariation37=ParameterName=Comment|VariantValue=ABM7-10.0000MHZ-D2Y-T
-ParamDesignator37=Y1
-ParamVariation38=ParameterName=.Checked PCB|VariantValue=
-ParamDesignator38=Y1
-ParamVariation39=ParameterName=.Checked SCH|VariantValue=
-ParamDesignator39=Y1
-ParamVariation40=ParameterName=.Creator|VariantValue=MM
-ParamDesignator40=Y1
-ParamVariation41=ParameterName=Category|VariantValue=Crystals and Oscillators
-ParamDesignator41=Y1
-ParamVariation42=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator42=Y1
-ParamVariation43=ParameterName=ComponentLink1Description|VariantValue=http://www.abracon.com/Resonators/abm7.pdf
-ParamDesignator43=Y1
-ParamVariation44=ParameterName=ComponentLink1URL|VariantValue=http://www.abracon.com/Resonators/abm7.pdf
-ParamDesignator44=Y1
-ParamVariation45=ParameterName=Description|VariantValue=CRYSTAL 10MHZ 18PF SMD
-ParamDesignator45=Y1
-ParamVariation46=ParameterName=ESR (Equivalent Series Resistance)|VariantValue=60 Ohm
-ParamDesignator46=Y1
-ParamVariation47=ParameterName=Footprint|VariantValue=ABM7_v1_1_BIG
-ParamDesignator47=Y1
-ParamVariation48=ParameterName=Frequency|VariantValue=10MHz
-ParamDesignator48=Y1
-ParamVariation49=ParameterName=Frequency Stability|VariantValue=±30ppm
-ParamDesignator49=Y1
-ParamVariation50=ParameterName=Frequency Tolerance|VariantValue=±20ppm
-ParamDesignator50=Y1
-ParamVariation51=ParameterName=Height|VariantValue=0.055" (1.40mm)
-ParamDesignator51=Y1
-ParamVariation52=ParameterName=Ibis Model|VariantValue=
-ParamDesignator52=Y1
-ParamVariation53=ParameterName=Library Reference|VariantValue=ABM7-10.0000MHZ-D2Y-T
-ParamDesignator53=Y1
-ParamVariation54=ParameterName=Load Capacitance|VariantValue=18pF
-ParamDesignator54=Y1
-ParamVariation55=ParameterName=Manufacturer|VariantValue=Abracon LLC
-ParamDesignator55=Y1
-ParamVariation56=ParameterName=Manufacturer Part Number|VariantValue=ABM7-10.0000MHZ-D2Y-T
-ParamDesignator56=Y1
-ParamVariation57=ParameterName=Mounting Type|VariantValue=Surface Mount
-ParamDesignator57=Y1
-ParamVariation58=ParameterName=Operating Mode|VariantValue=Fundamental
-ParamDesignator58=Y1
-ParamVariation59=ParameterName=Operating Temperature|VariantValue=-40°C ~ 85°C
-ParamDesignator59=Y1
-ParamVariation60=ParameterName=Package / Case|VariantValue=2-SMD
-ParamDesignator60=Y1
-ParamVariation61=ParameterName=Packaging|VariantValue=Cut Tape (CT)
-ParamDesignator61=Y1
-ParamVariation62=ParameterName=PCB3D|VariantValue=
-ParamDesignator62=Y1
-ParamVariation63=ParameterName=Pricing 1|VariantValue=1=0.96, 10=0.847, 50=0.791, 100=0.7, 500=0.6615 (USD)
-ParamDesignator63=Y1
-ParamVariation64=ParameterName=Ratings|VariantValue=-
-ParamDesignator64=Y1
-ParamVariation65=ParameterName=RoHS|VariantValue=RoHS Compliant
-ParamDesignator65=Y1
-ParamVariation66=ParameterName=Signal Integrity|VariantValue=
-ParamDesignator66=Y1
-ParamVariation67=ParameterName=Simulation|VariantValue=
-ParamDesignator67=Y1
-ParamVariation68=ParameterName=Size / Dimension|VariantValue=0.236" L x 0.138" W (6.00mm x 3.50mm)
-ParamDesignator68=Y1
-ParamVariation69=ParameterName=Stock 1|VariantValue=9355
-ParamDesignator69=Y1
-ParamVariation70=ParameterName=Supplier 1|VariantValue=Digi-Key
-ParamDesignator70=Y1
-ParamVariation71=ParameterName=Supplier Part Number 1|VariantValue=535-9833-1-ND
-ParamDesignator71=Y1
-ParamVariation72=ParameterName=Type|VariantValue=MHz Crystal
-ParamDesignator72=Y1
-ParamVariationCount=72
+VariationCount=0
+ParamVariationCount=0
 
 [Parameter1]
 Name=ClientCompanyName
