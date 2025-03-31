@@ -1,4 +1,6 @@
-Record=TopLevelDocument|FileName=Drone1_V1.SchDoc|SheetNumber=5
-Record=SheetSymbol|SourceDocument=Drone1_V1.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=[01] - COVER PAGE.SchDoc|SheetNumber=1|SymbolType=Normal|RawFileName=[01] - COVER PAGE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Drone1_V1.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=[02] - BLOCK DIAGRAM.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=[02] - BLOCK DIAGRAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Drone1_V1.SchDoc|FileName=Drone1_V1 SCHEMATIC.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Drone1_V1 SCHEMATIC.SchDoc|SheetNumber=3
+Record=SheetSymbol|SourceDocument=Drone1_V1 SCHEMATIC.SchDoc|Designator=U_Mission_schem|SchDesignator=U_Mission_schem|FileName=Mission_schem.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Mission_schem.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Drone1_V1 SCHEMATIC.SchDoc|Designator=U_Moteurs_schem|SchDesignator=U_Moteurs_schem|FileName=Moteurs_schem.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Moteurs_schem.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Drone1_V1 SCHEMATIC.SchDoc|Designator=U_Vol_schem|SchDesignator=U_Vol_schem|FileName=Vol_schem.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Vol_schem.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Drone1_V1 SCHEMATIC.SchDoc|FileName=BLOCK DIAGRAM.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Drone1_V1 SCHEMATIC.SchDoc|FileName=COVER PAGE.SchDoc|SheetNumber=1
