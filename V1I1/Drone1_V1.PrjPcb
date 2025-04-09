@@ -202,36 +202,36 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=ClientCompanyName
-Value=FEDEVEL Academy
+Name=VersionRevision
+Value=V1I1
 
 [Parameter2]
-Name=ClientContactEmail
-Value=robert.feranec@fedevel.com
-
-[Parameter3]
-Name=ClientContactName
-Value=Robert Feranec
-
-[Parameter4]
-Name=ClientWebsite
-Value=www.fedevel.com
-
-[Parameter5]
-Name=Company
-Value=(c) 2015 FEDEVEL Academy
-
-[Parameter6]
-Name=NotFitted
-Value=NF
-
-[Parameter7]
 Name=Project
 Value=28Pins
 
+[Parameter3]
+Name=NotFitted
+Value=NF
+
+[Parameter4]
+Name=Company
+Value=(c) 2015 FEDEVEL Academy
+
+[Parameter5]
+Name=ClientWebsite
+Value=www.fedevel.com
+
+[Parameter6]
+Name=ClientContactName
+Value=Robert Feranec
+
+[Parameter7]
+Name=ClientContactEmail
+Value=robert.feranec@fedevel.com
+
 [Parameter8]
-Name=VersionRevision
-Value=V1I1
+Name=ClientCompanyName
+Value=FEDEVEL Academy
 
 [Configuration1]
 Name=Default Configuration
@@ -1059,7 +1059,7 @@ Type39=2
 Type40=2
 Type41=0
 Type42=2
-Type43=1
+Type43=0
 Type44=0
 Type45=0
 Type46=0
