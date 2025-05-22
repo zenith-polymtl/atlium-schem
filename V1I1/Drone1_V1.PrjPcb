@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=5V/3V3
 
 [Preferences]
 PrefsVaultGUID=
@@ -202,36 +203,36 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=VersionRevision
-Value=V1I1
+Name=ClientCompanyName
+Value=FEDEVEL Academy
 
 [Parameter2]
-Name=Project
-Value=28Pins
-
-[Parameter3]
-Name=NotFitted
-Value=NF
-
-[Parameter4]
-Name=Company
-Value=(c) 2015 FEDEVEL Academy
-
-[Parameter5]
-Name=ClientWebsite
-Value=www.fedevel.com
-
-[Parameter6]
-Name=ClientContactName
-Value=Robert Feranec
-
-[Parameter7]
 Name=ClientContactEmail
 Value=robert.feranec@fedevel.com
 
+[Parameter3]
+Name=ClientContactName
+Value=Robert Feranec
+
+[Parameter4]
+Name=ClientWebsite
+Value=www.fedevel.com
+
+[Parameter5]
+Name=Company
+Value=(c) 2015 FEDEVEL Academy
+
+[Parameter6]
+Name=NotFitted
+Value=NF
+
+[Parameter7]
+Name=Project
+Value=28Pins
+
 [Parameter8]
-Name=ClientCompanyName
-Value=FEDEVEL Academy
+Name=VersionRevision
+Value=V1I1
 
 [Configuration1]
 Name=Default Configuration
@@ -931,13 +932,6 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
-Type152=1
-Type153=1
-Type154=1
-Type155=1
-Type156=1
-Type157=1
-Type158=1
 
 [Difference Levels]
 Type1=1
@@ -1022,10 +1016,6 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
-Type83=1
-Type84=1
-Type85=1
-Type86=1
 
 [Electrical Rules Check]
 Type1=1
