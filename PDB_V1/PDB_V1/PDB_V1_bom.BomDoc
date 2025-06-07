@@ -1,0 +1,18 @@
+|RECORD=BOM|VERSION=6|FILENAME=C:\Users\vicpa\OneDrive - polymtl.ca\Bureau\Altium_Zenith_officiel\atlium-schem\PDB_V1\PDB_V1\PDB_V1_bom.BomDoc|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=07.06.2025|TIME=18:23:02|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=54!Comment=118!Description=119!Designator=78!Quantity=67!Manufacturer 1=101!Manufacturer Part Number 1=170!Manufacturer Lifecycle 1=146!Supplier 1=74!Supplier Part Number 1=142!Supplier Unit Price 1=126!Supplier Subtotal 1=120
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=54!Comment=118!Description=119!Designator=78!Quantity=67!Manufacturer 1=101!Manufacturer Part Number 1=170!Manufacturer Lifecycle 1=146!Supplier 1=74!Supplier Part Number 1=142!Supplier Unit Price 1=126!Supplier Subtotal 1=120|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=101!Manufacturer Part Number 1=170!Manufacturer Lifecycle 1=146!Supplier 1=74!Supplier Part Number 1=142!Supplier Unit Price 1=126!Supplier Subtotal 1=120|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Quantity=-1!Manufacturer 1=101!Manufacturer Part Number 1=170!Manufacturer Lifecycle 1=146!Supplier 1=74!Supplier Part Number 1=142!Supplier Unit Price 1=126!Supplier Subtotal 1=120
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|PARTSOURCES=|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=ExternalCheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=SamacSys.SchLib\BD9G401EFJ-ME2|DESIGNITEMID=BD9G401EFJ-ME2|ITEMSOURCE=SamacSys.SchLib|STATUS=Unknown|DESCRIPTION=Buck converter|USERCOMMENTS=BD9G401EFJ-ME2|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=BD9G401EFJ-ME2,"Buck converter"|COMPONENTPARAMETERS="Arrow Part Number=","Arrow Price/Stock=",Comment=BD9G401EFJ-ME2,"Component Kind=Standard","Datasheet Link=https://componentsearchengine.com/Datasheets/1/BD9G401EFJ-ME2.pdf","Description=Buck converter",Footprint=SOIC127P600X100-9N,Height=1mm,"Ibis Model=","Library Name=SamacSys.SchLib","Library Reference=BD9G401EFJ-ME2","Manufacturer_Name=ROHM Semiconductor",Manufacturer_Part_Number=BD9G401EFJ-ME2,"Mouser Part Number=755-BD9G401EFJ-ME2","Mouser Price/Stock=https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BD9G401EFJ-ME2?qs=HXFqYaX1Q2yXryPBxafgDg%3D%3D",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
