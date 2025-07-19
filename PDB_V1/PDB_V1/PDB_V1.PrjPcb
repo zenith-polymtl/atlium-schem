@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
 [Document5]
-DocumentPath=..\..\..\..\Altium schema pas trouve\TMR7302.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FVMAURXZ
-
-[Document6]
 DocumentPath=PCB_PDB_V1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
