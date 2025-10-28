@@ -134,6 +134,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVFFQOOS
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Splitter_aile_V1\Design Rule Check - Splitter_aile_V1_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
